@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidcarmo23
 - 👀 I’m interested in Web Design and Front End Development
-- 🌱 I’m currently learning Computer Science in UBI
+- 🌱 I’m currently graduating in Computer Science at Universidade da Beira Interior
 - 💞️ I’m looking to earn experience doing any kind of projects during my breaks to develop my resume
 - 📫 You can reach me by email davidcarmo2000@gmail.com and instagram @davidcarmo23
 
