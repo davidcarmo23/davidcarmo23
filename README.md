@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @davidcarmo23
-- 👀 I’m interested in Web Design and Front End Development
-- 🌱 Taking a Master's Degree in Computer Science at Universidade da Beira Interior
-- 💞️ I’m looking to earn experience doing any kind of projects during my breaks to develop my resume
+- 👀 Master's Degree in Computer Science at Universidade da Beira Interior
 - 📫 You can reach me by email davidcarmo2000@gmail.com and instagram @davidcarmo23
 
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcarmo23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
